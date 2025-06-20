@@ -1,4 +1,4 @@
-<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
+<h1 align="center"> Stock Market Prediction using LSTM </h1>
 
 <p align="center">
   <img src="Stock market.jpeg" alt="Stock Market Prediction" />
@@ -22,7 +22,7 @@ Once the model is trained, we evaluate its performance on the testing dataset. W
 
 ## Usage 💪🏻
 To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM`
+1. Clone this repository.
 2. No need to download any dataset, this project uses Yahoo finance library to directly fetch data, just write the correct company code.
 3. Run the `training code` script in the notebook to train the LSTM model.
 4. Run the `predict code` script in the notebook to make predictions on new data.
@@ -30,7 +30,7 @@ To run the project locally, follow these steps:
 ## Results and Discussion 📊
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
 
-<img width="1028" alt="Screenshot 2023-05-10 at 4 33 59 AM" src="https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM/assets/95336274/2590dc7b-29bb-45ae-b0a2-1bf869db0125">
+
 
 ## Contributing 🤝
 We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
@@ -40,9 +40,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
-- **Email:** adarsh36jnp@gmail.com
-- **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/)
-
+- **Email:** divyajain.teamkartkgp@gmail.com
+  
 Let's make accurate stock market predictions together!
 
-Thank you for visiting our project repository. Happy predicting! 😇
+Thank you for visiting my project repository. Happy predicting! 😇
