@@ -35,8 +35,7 @@ In this section, we present the results of our stock market prediction experimen
 ## Contributing 🤝
 We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
 
-## License 🔐
-This project is licensed under the [MIT License](LICENSE).
+
 
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
